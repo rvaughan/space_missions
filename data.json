@@ -1,0 +1,14 @@
+{
+    "missions": [
+        {
+            "mission": "Artemis",
+            "date": "20220829",
+            "description": "Inaugural flight for the Artemis moon launches, scheduled for 2025.",
+            "homepage": "https://www.nasa.gov/artemisprogram",
+            "twitter": "https://twitter.com/NASAArtemis",
+            "videos": [
+                "https://www.youtube.com/watch?v=CMLD0Lp0JBg"
+            ]
+        }
+    ]
+}
